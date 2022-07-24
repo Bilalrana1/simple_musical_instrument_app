@@ -1,0 +1,4 @@
+#Sun Jul 24 02:40:51 PDT 2022
+base.0=C\:\\FlutterP\\simple_musical_instrument_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
